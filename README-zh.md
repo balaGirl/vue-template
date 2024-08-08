@@ -2,10 +2,9 @@
 
 > 这是一个极简的 vue admin 管理后台。
 
-其他完整版本连接，可参考如下
 
-[线上地址](http://panjiachen.github.io/vue-admin-template)
+内容图片：
 
-[国内访问](https://panjiachen.gitee.io/vue-admin-template)
+![image-20240808142640589](https://github.com/balaGirl/vue-template/blob/dev/public/home.png)
 
 
